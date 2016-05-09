@@ -9,3 +9,9 @@ The figures were revealed as Tameside Hospital became the first NHS hospital in 
 The data was obtained through Freedom of Information requests by Birmingham City University MA student **Eiryo Saeki**. You can [find the data in this GitHub repository here](https://github.com/BBC-Data-Unit/malnutrition/blob/master/Malnutrition%20cases%20reported%20by%20NHS%20foundation%20trusts%202012_14.csv)
 
 You can also [find this data in a Google spreadsheet here](https://docs.google.com/spreadsheets/d/1pSoobDun95Ay4VYpHjB2uLqujPzM8-2Shbv_1rOeIbc/edit?usp=sharing)
+
+## Updates
+
+Rob Radburn [created an interactive visualisation using this data here, also shown in the screengrab below](https://public.tableau.com/profile/publish/malnutrition_cases_bbc/Salford#!/publish-confirm)
+
+![](https://raw.githubusercontent.com/BBC-Data-Unit/malnutrition/master/malnutrition_tableau.jpg)
